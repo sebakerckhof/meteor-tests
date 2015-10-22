@@ -1,0 +1,13 @@
+/* CSS declarations go here */
+
+.foo-bar {
+  background: blue;
+}
+
+
+.baz {
+  display: flex;
+  height: 100px;
+  width: 100px;
+  background: orange;
+}
