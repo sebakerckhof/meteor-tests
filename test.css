@@ -1,8 +1,4 @@
-.foo-bar {
-  background: blue;
-}
-
-.baz {
+.bar {
   display: flex;
   height: 100px;
   width: 100px;
